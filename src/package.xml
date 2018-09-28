@@ -8,5 +8,31 @@
         <members>LightningConnectQuickstart</members>
         <name>ApexClass</name>
     </types>
+    <types>
+        <members>Fulfillment__c.Fulfillment_Creation</members>
+        <name>ApprovalProcess</name>
+    </types>
+    <types>
+        <members>Fulfillment__c.Address__c</members>
+        <members>Fulfillment__c.Adventure__c</members>
+        <members>Fulfillment__c.Adventure_Package_Cost__c</members>
+        <members>Fulfillment__c.AdventurePackageId__c</members>
+        <members>Fulfillment__c.Deposit__c</members>
+        <members>Fulfillment__c.Dietary_Restrictions__c</members>
+        <members>Fulfillment__c.Email__c</members>
+        <members>Fulfillment__c.Expedition_Leader__c</members>
+        <members>Fulfillment__c.Explorer__c</members>
+        <members>Fulfillment__c.Home_Phone__c</members>
+        <members>Fulfillment__c.Is_Exempt__c</members>
+        <members>Fulfillment__c.Lead_Marketer__c</members>
+        <members>Fulfillment__c.Mobile__c</members>
+        <members>Fulfillment__c.Opportunity__c</members>
+        <members>Fulfillment__c.Preferred_form_of_Contact__c</members>
+        <members>Fulfillment__c.Schedule_Date__c</members>
+        <members>Fulfillment__c.Special_Needs__c</members>
+        <members>Fulfillment__c.Status__c</members>
+        <members>Fulfillment__c.Submitted_Waiver__c</members>
+        <name>CustomField</name>
+    </types>
     <version>38.0</version>
 </Package>
